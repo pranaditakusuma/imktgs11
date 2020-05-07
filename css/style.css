@@ -1,0 +1,91 @@
+body{
+	background-color:#b2ebf2;
+    margin:0;
+    
+
+
+}
+h1{
+	font-family: 'Courgette', cursive;
+	color:#00263b;;
+	font-size: 60px;
+	
+}
+h2{
+    font-family: 'Indie Flower', cursive;
+	color:#00263b;;
+	font-size: 45px;
+}
+
+h3{
+    font-family: 'Balsamiq Sans', cursive;
+	color:#00263b;
+	font-size: 32px;
+
+}
+p{
+    font-family: 'Baloo Tamma 2', cursive;
+	font-size:22px;
+}
+
+.fotoatas{
+	width: 80px;
+	height:80px;
+	position:absolute;
+	left:120px;
+	top:40px;
+	border: solid 3px;
+	border-color: rgb(17, 120, 180);;
+	border-radius:50%;
+	
+}
+
+.vectorprogrammer{
+	padding-left:510px;
+
+    
+}
+
+.fotoprofile{
+	border-radius:50%;
+	padding-top:4px;
+	position:relative;
+	left:600px;
+	border: solid 4px;
+	border-color: #ff5722;;
+}
+
+.riwayatsemua{
+	width: 250px;
+	border-radius:50%;
+	height: 250px;
+	margin-left:20px;
+	border: solid 3px;
+	border-color:greenyellow;
+}
+
+.boxpalingbawah{
+	background-color:#00bcd4;;
+	height:250px;
+}
+.boxpalingbawah ul li{
+	display:inline-block;
+	padding:20px;
+	font-family: 'Baloo Tamma 2', cursive;
+	font-size:23px;
+	color:purple;
+	
+
+
+}
+
+
+
+
+table{
+	margin-left:100px;
+	margin-right:80px;
+
+}
+
+
